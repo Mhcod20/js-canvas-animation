@@ -1,4 +1,6 @@
-# TP2 — Canvas & animation (Webpack)
+# js-canvas-animation — Canvas & animation (Webpack)
+
+*(TP2 de l'UE JavaScript)*
 
 TP portant sur la manipulation du `<canvas>` HTML5 : dessin d'une balle et mise en place d'une animation, avec une chaîne de build **Webpack + Babel**.
 
