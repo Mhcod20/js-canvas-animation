@@ -1,4 +1,4 @@
-// fonction 'pooint de départ' : on crée l'image puis on exécute les dessins quand l'image est prête
+// fonction 'point de départ' : on crée l'image puis on exécute les dessins quand l'image est prête
 const drawInCanvas = () => {
   // création de l'image et chargement de la source
   const timolImg = new Image();
